@@ -2,7 +2,6 @@
 
 ## Overview
 This project constitutes a website dedicated to Lex Fridman, an influential AI researcher and scientist. The website acts as a centralized platform to access Lex Fridman's thought-provoking podcast series, covering a diverse array of topics, including science, technology, history, philosophy, and more. It fetches and organizes data from Lex Fridman's official website RSS feed, presenting it in an intuitive and user-friendly manner.
-I have developed a RSS website dedicated to Lex Fridman, a renowned researcher and scientist affiliated with MIT. As an ardent admirer of Lex Fridman, I based this website on XML feeds sourced from his official website's podcast RSS. Leveraging PHP, I successfully retrieved and incorporated various elements such as channel information, items, titles, descriptions, and audio podcasts from the RSS feeds.
 Working with XML was initially challenging due to my limited expertise in this area, but I have since gained familiarity and proficiency. Additionally, I ensured the website's design is highly responsive by utilizing Bootstrap. Users can conveniently access and play the most recent five podcasts, with the latest one prominently displayed at the top for easy access
 
 ## Author
