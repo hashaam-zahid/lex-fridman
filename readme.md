@@ -84,7 +84,6 @@ if (!$xml = simplexml_load_file("https://lexfridman.com/feed/podcast/")) {
     }
 }
 // var_dump($duration_podcast);
-Replace the Your XML parsing code goes here... comment with your actual XML parsing code from your project.
 ```
 ### Folder Structure
 
