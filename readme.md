@@ -6,6 +6,8 @@ Working with XML was initially challenging due to my limited expertise in this a
 
 ## Author
 [Hashaam Zahid](https://www.linkedin.com/in/hashaam-zahid)
+![Screenshot](https://raw.githubusercontent.com/hashaam-zahid/lex-fridman/master/images/web.jpeg)
+![Screenshot](https://raw.githubusercontent.com/hashaam-zahid/lex-fridman/master/images/lex.png)
 
 ## Project Description
 The primary objective of this web application is to provide an immersive experience for fans and followers of Lex Fridman's podcasts. Utilizing PHP, the website extracts and interprets XML data sourced from Lex Fridman's official website RSS feed. It offers a seamless interface to view vital details such as channel information, podcast titles, descriptions, publication dates, and direct links to audio files. The responsive design, built with Bootstrap, ensures a smooth and engaging browsing experience across a variety of devices.
