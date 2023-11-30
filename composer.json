@@ -1,0 +1,16 @@
+{
+    "name": "Hashaam",
+    "description": "Lex Fridman Rss Podcast Based website",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hashaam Zahid"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+           
+        }
+    }
+   
+}
